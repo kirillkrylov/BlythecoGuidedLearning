@@ -5,7 +5,7 @@
     "Name": "GuidedLearning",
     "ModifiedOnUtc": "\/Date(1584040276000)\/",
     "Maintainer": "Customer",
-    "Description": "URL to GitHub Repo will go here !",
+    "Description": "https://github.com/kirillkrylov/BlythecoGuidedLearning/blob/master/README.md",
     "DependsOn": [
       {
         "UId": "fe1effeb-74f2-42c5-b5e1-dfe0313b86bf",
