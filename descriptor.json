@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "4bbe51ea-6bcb-413a-b019-1c2775dfae74",
+    "PackageVersion": "7.8.0",
+    "Name": "GuidedLearning",
+    "ModifiedOnUtc": "\/Date(1584040276000)\/",
+    "Maintainer": "Customer",
+    "Description": "URL to GitHub Repo will go here !",
+    "DependsOn": [
+      {
+        "UId": "fe1effeb-74f2-42c5-b5e1-dfe0313b86bf",
+        "PackageVersion": "7.8.0",
+        "Name": "Studio"
+      }
+    ]
+  }
+}
